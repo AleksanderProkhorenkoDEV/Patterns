@@ -6,7 +6,7 @@ factorymethod/
 ├── src/
 │   ├── interfaces/       // Type definitions
 │   ├── notifications/    // Concrete implementations
-│   ├── factories/        // Factory classes
+│   ├── class/            // Factory classes and base classes
 │   └── index.ts          // Entry point
 ├── tsconfig.json         // TypeScript config
 └── package.json          // Project config
